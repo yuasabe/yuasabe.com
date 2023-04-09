@@ -111,8 +111,9 @@ I published a book on binary analysis (it's in Japanese though)!
 - [Github](https://github.com/yuasabe)
 - [Gitbooks](https://yuasabe.gitbook.io/notes/)
 
-### Notes
+### Pages
 
+- [Master's related documents](/masters)
 - [30 日でできる！ OS 自作入門](https://yuasabe.gitbook.io/notes/my-os)
 - [analyzing binaries and intro to pwning](/pwn01.html)
 - [weekly tech meeting notes](/weekly_tech_meeting.html)
