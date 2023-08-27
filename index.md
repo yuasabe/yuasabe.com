@@ -19,6 +19,7 @@ My recent interests revolve around cooperative perception of connected vehicles 
 
 ### Work Experience
 
+- 2023/4 - : Software engineer at [TIER IV](https://tier4.jp/en/), working on Autoware enhancements and scaling, V2I/V2X solutions, and more.
 
 - 2021/4 - : Part-time Researcher at [TIER IV](https://tier4.jp/en/), working on the integration of V2X functionalities into Autoware, and the realization of Collective Perception.
 
