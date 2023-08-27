@@ -4,6 +4,7 @@ title: Run AWSIM and Autoware on a Dual-PC setup
 subtitle: Step-by-step Tutorial
 tags: [Autoware, AWSIM, Tutorial]
 comments: true
+cover-img: /assets/img/posts/2023-08-27-awsim-dual-pc/title-image.png
 ---
 
 When using [Autoware](https://github.com/autowarefoundation/autoware) with the digital-twin simualtor [AWSIM](https://github.com/tier4/AWSIM), we often want to run the two software on separate PCs or machines to improve performance. 
