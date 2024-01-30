@@ -5,15 +5,17 @@ subtitle: Software Engineer / Researcher for Autonomous Driving
 use-site-title: true
 ---
 
-I am a software engineer at [TIER IV](https://tier4.jp/en/), focusing on the research and development of autonomous driving systems and their various related components.
+I am a software engineer at [TIER IV](https://tier4.jp/en/), focusing on the research and development of autonomous driving systems and their various related components. My current role revolves around the inter-component and external APIs of the open-source Autonomous Driving Stack, [Autoware](https://tier4.jp/en/autoware/), as well as designing and implementing infrastructure-aided autonomous driving features using V2I communication.
 
-In March 2023, I completed my masters degree at the Graduate School of Information Science and Technology, The University of Tokyo, advised by [Prof. Manabu Tsukada](https://tlab.hongo.wide.ad.jp/People/manabu-tsukada/) and [Prof. Hiroshi Esaki](http://hiroshi1.hongo.wide.ad.jp/hiroshi/). My research interests focused on Cooperative Intelligent Transportation Systems (C-ITS) and V2X technologies.
+In March 2023, I completed my masters degree at the Graduate School of Information Science and Technology, The University of Tokyo, advised by [Prof. Manabu Tsukada](https://tlab.hongo.wide.ad.jp/People/manabu-tsukada/) and [Prof. Hiroshi Esaki](http://hiroshi1.hongo.wide.ad.jp/hiroshi/). My research interests focused on Cooperative Intelligent Transportation Systems (C-ITS) and V2X technologies. Specifically, my area of focus was on Cooperative Perception and how we can reliably utilize cooperatively perceived information in the context of autonomous driving.
 
-I was previously a member of the [Esaki Laboratory](http://www.hongo.wide.ad.jp/index.html) and the [Tsukada Laboratory](https://tlab.hongo.wide.ad.jp/).
+During my time in university, I was a member of the [Esaki Laboratory](http://www.hongo.wide.ad.jp/index.html) and the [Tsukada Laboratory](https://tlab.hongo.wide.ad.jp/).
 
-I have also been part of the [WIDE Project](https://www.wide.ad.jp/) and the [Industrial Cyber Security Center of Excellence (ICS CoE)](https://www.ipa.go.jp/icscoe/english/index.html).
+I have also been part of the [WIDE Project](https://www.wide.ad.jp/) and the [Industrial Cyber Security Center of Excellence (ICS CoE)](https://www.ipa.go.jp/icscoe/english/index.html), focusing on R&D of IPv6 applications and cybersecurity issues for industrial control systems. At the ICS CoE of the Information-technology Promotion Agency (IPA), our team designed and conducted cybersecurity training exercises for various companies both within and outside of Japan.
 
-My recent interests revolve around cooperative perception of connected vehicles and its integration into the open-source Autonomous Driving Stack [Autoware](https://tier4.jp/en/autoware/). 
+Previously, I spent quite a bit of time in the startup space in Tokyo, raising funding for iOS app development projects back in 2015 to co-founding [Gracia Inc.](https://gra-cia.co.jp/index) in 2017 with our personalized gifts e-commerce service, [TANP](https://tanp.jp), and later developing AWS infrastructure and backend services for a few other EC startups.
+
+Although I feel like I have been all over the place, my main focus for a while now has been on emerging connected autonomous vehicle tech, and its implementation into society.
 
 ---
 
@@ -33,9 +35,9 @@ My recent interests revolve around cooperative perception of connected vehicles 
 
 - 2017/5 - 2018/12. Co-founded [Gracia Inc.](https://gra-cia.co.jp/index) as CTO. Developed and launched an e-commerce website called [TANP](https://tanp.jp), which specializes in unique gifts and personalized presents. Focused heavily on collaboration and teaching between members and soon expanded the enginnering team to over ten members.
 
-- 2017/1 - 2017/3. Through a program sponsored by the Japanese Ministry of Foreign Affairs, he interned in a VC fund and accelerator in Philadelphia, USA called [Dreamit Ventures](https://www.dreamit.com/). Focused on conducting interviews and selecting health startups for the 2017 Health Tech Accelerator program.
+- 2017/1 - 2017/3. Through a program sponsored by the Japanese Ministry of Foreign Affairs, interned in a VC fund and accelerator in Philadelphia, USA called [Dreamit Ventures](https://www.dreamit.com/). Focused on conducting interviews and selecting health startups for the 2017 Health Tech Accelerator program.
 
-- 2016/4 - 2017/3. He interned at [nLinks Inc.](https://nlinks.co.jp/), a Tokyo based consulting firm, focusing on marketing research and the strategic use of emerging digital solutions.
+- 2016/4 - 2017/3. Interned at [nLinks Inc.](https://nlinks.co.jp/), a Tokyo based consulting firm, focusing on marketing research and the strategic use of emerging digital solutions.
 
 ### Education
 
@@ -68,6 +70,11 @@ I published a book on binary analysis (it's in Japanese though)!
 
 - Python
 - C++
+  - Autonomous driving software development (ex. Autoware)
+  - ROS / ROS2 (C++)
+- Integration of Autoware onto vehicles (golfcart-based AVs, GoKarts, etc.)
+- Development of simualation-based environments for autonomous driving (ex. AWSIM)
+  - Tools such as Unity 3D and Blender
 - Web Development: Backend
   - Python
   - NodeJS
@@ -83,10 +90,9 @@ I published a book on binary analysis (it's in Japanese though)!
 - Networking
   - Basic router/switch configurations
   - Basic AP configurations
-- ROS / ROS2 (C++)
+  - Having fun with GNS3 and Cisco networking simulators
 - Other
   - Illustrator / Photoshop
-  - Blender
   - iOS Application Development (Objective-C)
 
 ### Current Interests
