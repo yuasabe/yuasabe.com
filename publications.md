@@ -3,9 +3,15 @@ layout: page
 title: Publications
 ---
 
+**2024**
+
+- **Y. Asabe**, E. Javanmardi, J. Nakazato, M. Tsukada and H. Esaki, "Enhancing Reliability in Infrastructure-Based Collective Perception: A Dual-Channel Hybrid Delivery Approach With Real-Time Monitoring," in IEEE Open Journal of Vehicular Technology, vol. 5, pp. 1124-1138, 2024, doi: 10.1109/OJVT.2024.3443877.
+
 **2023**
 
 - **Yu Asabe**, Ehsan Javanmardi, Jin Nakazato, Manabu Tsukada, Hiroshi Esaki, **"AutowareV2X: Reliable V2X Communication and Collective Perception for Autonomous Driving"**, In: *The 2023 IEEE 97th Vehicular Technology Conference (VTC2023-Spring)*, 2023.
+
+- **Yu Asabe**, “AutowareV2X: Enabling V2X Communication and Collective Perception for Autonomous Driving”, Autoware Workshop, The 2023 IEEE Intelligent Vehicles Symposium (IV 2023), Anchorage, USA, 2023. 
 
 - **浅部佑**, エッサン ジャワーンマーディ, 中里仁, 塚田学, 江崎浩, **"AutowareV2X：自動運転におけるV2X通信と協調認知の実現"**, 電子情報通信学会 *ITS研究会*, 2023.
 
