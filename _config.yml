@@ -21,7 +21,7 @@ author: Yu Asabe
 
 navbar-links:
   Home: "index"
-  Blog: "blog"
+  Blog: "https://blog.yuasabe.com"
   Publications: "publications"
   Resume: "resume"
 
